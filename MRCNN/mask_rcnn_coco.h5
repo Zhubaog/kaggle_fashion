@@ -1,0 +1,4 @@
+文件太大上传不了，获取方式：
+
+!wget --quiet https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+!ls -lh mask_rcnn_coco.h5
