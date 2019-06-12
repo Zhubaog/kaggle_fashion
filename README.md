@@ -5,6 +5,8 @@
 相关数据网址：https://www.kaggle.com/c/imaterialist-fashion-2019-FGVC6/data
 
 
+本项目中使用的是mrcnn网络，详情请参考https://github.com/facebookresearch/maskrcnn-benchmark  （mrcnn文件夹下的文件均是使用这里面的）
+
 MRCNN文件夹下的mask_rcnn_coco.h5文件是空的，gitup有文件大小要求，上传不了，获取方法请参考以下方式：
 
 !wget --quiet https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
